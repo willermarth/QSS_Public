@@ -13,8 +13,5 @@ This public repo has content for the Fall 2023 iteration of `QSS20: Modern Stati
     - Recoding variables using `np.where`
     - Recoding variables using `np.select`
     - Recoding variables using `map` and dictionary
-  - **Slides**: [02_qss20_f22_pandas.pdf](https://github.com/jhaber-zz/QSS20_public/blob/main/slides/02_qss20_f22_pandas.pdf)
-  - **Solutions**: [00_pandas_datacleaning_solutions.ipynb](https://github.com/jhaber-zz/QSS20_public/blob/main/activities/solutions/00_pandas_datacleaning_solutions.ipynb)
-  - **Responses to class questions**: [00_classquestions.ipynb](https://github.com/jhaber-zz/QSS20_public/blob/main/activities/00_classquestions.ipynb)
-
+  
 (more to come throughout the quarter)
